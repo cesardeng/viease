@@ -1,5 +1,7 @@
 # [Viease](http://viease.cn/)
 
+暂时clone下来的哦，测试用
+
 微易，一款基于 [Laravel](http://laravel.com) 开发的，使用 [overtrue/wechat](https://github.com/overtrue/wechat) SDK 做为微信接入的微信公众平台管理系统框架。http://viease.cn/
 
 > 此项目为我们多个人业余未完全做完的一个产品，只是开源出来大家去贡献，一起完善它。
